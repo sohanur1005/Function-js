@@ -9,6 +9,6 @@ function evenOnly(num){
     return sum;  
 }
 // function call
-const arr = [5, 73, 52, 1, 8, 3];
+const arr = [5, 73, 52, 1, 8, 12,3];
 const result = evenOnly(arr);
 console.log("Sum of Even Numbers:", result);
